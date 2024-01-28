@@ -14,7 +14,7 @@ This is a React app that fetches and adds movie data to a Firebase Realtime Data
 
 ## Overview
 
-The React Movie App is a web application designed to showcase a collection of movies retrieved from a Firebase Realtime Database server. Users can explore the list of movies, view details, and even contribute to the database by adding new movie entries.
+The React Movie App is a web application designed to showcase a collection of movies retrieved from a Firebase real-time database server. Users can explore the list of movies, view details, and even contribute to the database by adding new movie entries.
 
 ## Features
 
@@ -33,7 +33,7 @@ The React Movie App is a web application designed to showcase a collection of mo
 
 ### How It Works
 
-The app leverages React for the frontend, providing a dynamic and responsive user interface. Firebase Realtime Database is employed as the backend to store movie data, ensuring seamless data retrieval and persistence.
+The app leverages React for the front end, providing a dynamic and responsive user interface. Firebase Realtime Database is employed as the backend to store movie data, ensuring seamless data retrieval and persistence.
 
 ### Why Use This App
 
@@ -45,7 +45,7 @@ Whether you're a movie enthusiast looking for recommendations or want to share y
 
 ### Usage
 
-- for running this app use <bold>npm start</>
+- for running this app use <bold>npm start
 
 ### Dependencies
 - npm install
